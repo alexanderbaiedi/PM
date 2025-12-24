@@ -1,3 +1,10 @@
+---
+layout: default
+title: Alexander Baiedi
+---
+
+
+
 # Alexander Baiedi
 
 **Product Manager · Systems Builder · Automation**
