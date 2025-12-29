@@ -1,11 +1,4 @@
 title: Alexander Baiedi
 description: Product Manager · Systems Builder · Automation
 
-theme: minima
-
-minima:
-  skin: classic
-
-header_pages:
-  - index.html
-  - about.html
+theme: jekyll-theme-cayman
