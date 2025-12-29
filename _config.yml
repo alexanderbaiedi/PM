@@ -1,3 +1,11 @@
 title: Alexander Baiedi
-markdown: kramdown
+description: Product Manager · Systems Builder · Automation
+
 theme: minima
+
+minima:
+  skin: classic
+
+header_pages:
+  - index.html
+  - about.html
